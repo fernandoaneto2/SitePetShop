@@ -1,0 +1,165 @@
+body{
+    max-width: 1743px;
+    height: auto;
+    margin: 0;
+    font-family: sans-serif;
+}
+.secao-topo{
+    background-image: url(img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    height: 65vh;
+}
+.pata{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+
+}
+.icones{
+    width: 25px;
+    height: 25px;
+    display: inline;
+}
+.logo{
+    max-width: 250px;
+    color: #3c184e;
+}
+.titulo{
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+.subtitulo{
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+.fundo-transparente{
+    background-color: #ffffffc4;
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: 0 8px 32px #1f26875e;
+    max-width: 1024px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+}
+h1{
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+    text-align: center;
+    color: #3c184e
+}
+h2{
+    font-size: 36px;
+    Color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+.link-wpp{
+    background-color: #3c184e;
+    color: #ffff;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 25px; 
+    border-radius: 10px;
+    width: 200px;
+    margin: 0 auto;
+}
+.fundo-transparente p{
+    text-align: center;
+}
+.secao-servicos, .secao-topo, .secao-faixa, .secao-marcas, .secao-mapa{
+    width: 100%;
+    padding: 120px 80px;
+}
+ul{
+    max-width: 800px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+    color: #3c184e;
+}
+li{
+    margin: 0 0 20px 0;
+    font-size: 20px;
+}
+.texto-negrito{
+    font-weight: 700;
+    font-style: italic;
+}
+.conteiner-fotos{
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+.fotos{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    position: center;
+}
+.secao-faixa{
+    background-color: #3c184e;
+    text-align: center;
+}
+.paragrafo-faixa{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+
+}
+.redes-sociais{
+    width: 50px;
+    height: 50px;
+    margin: auto 20px;
+}
+.conteiner-redessociais{
+    text-align: center;
+    margin: 0;
+}
+.marca1, .marca2, .marca3{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.secao-marcas img{
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+.secao-mapa{
+    text-align: center;
+}
+.paragrafo-mapa{
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+iframe{
+    width: 800px;
+    height: 450px;
+}
+.secao-rodape{
+    width: 100vw;
+    padding: 10px 0 10px 0;
+    background-color: #3c184e;
+    
+}
+.rodape{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
